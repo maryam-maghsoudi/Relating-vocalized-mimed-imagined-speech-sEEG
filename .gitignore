@@ -1,0 +1,26 @@
+# Generated result/output directories (large, regeneratable)
+generalization_results/
+generalization_results_envelope/
+outputs/
+outputs_noncausal/
+outputs_with_null/
+per_sentence_results/
+rank_outputs/
+lin_ridge_across_modes/outputs/
+lin_ridge_across_modes/outputs_noncausal/
+lin_ridge_across_modes/outputs_with_null/
+
+# Generated/derived data files
+*.npz
+*.npy
+*.mat
+*.png
+*.pdf
+*.tsv
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# OS/editor cruft
+.DS_Store
